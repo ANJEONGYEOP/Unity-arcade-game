@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8f299ce279cc8da489f7b3dd4d5d5538
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerController: {instanceID: 0}
+  - deathParticleEffect: {fileID: 1570821278155292299, guid: f8fcac51f4e6ee2448aa6b421aea7413, type: 3}
+  - deathSound: {fileID: 8300000, guid: 674258a055e994b72bbb15a28eb79838, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
